@@ -1,0 +1,5 @@
+import tailwind from "tailwindcss";
+
+<div class="bg-blue-500">
+  This is a div styled with TailwindCSS.
+</div>
